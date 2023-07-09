@@ -1,0 +1,34 @@
+{
+    "name": "SliderInputActions",
+    "maps": [
+        {
+            "name": "Slider",
+            "id": "a2611c75-de94-4a3f-9bcf-c22dd880c34b",
+            "actions": [
+                {
+                    "name": "Charge",
+                    "type": "Button",
+                    "id": "160fdb54-9c65-4372-bc12-92fa8272d430",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5b3de9cd-67ec-4bfe-b42e-cc273b265ef1",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Charge",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
